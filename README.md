@@ -4,5 +4,5 @@ The UMass Global English on Twitter Dataset can be downloaded from Kaggle:
 https://www.kaggle.com/datasets/rtatman/the-umass-global-english-on-twitter-dataset.  
 The same methodology can be applied to classify Tweets using Twitter's developer API.  
 See project_proposal document for an overview.  
-Language_Classifer.html for the jupiter notebook output.  
+Language_Classifer.ipynb for the jupiter notebook and output.  
 project.mp4 file for a brief presentation for this project.  
