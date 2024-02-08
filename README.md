@@ -5,4 +5,4 @@ https://www.kaggle.com/datasets/rtatman/the-umass-global-english-on-twitter-data
 The same methodology can be applied to classify Tweets using Twitter's developer API.  
 See project_proposal document for an overview.  
 Language_Classifer.html for the jupiter notebook output.  
-project.mp4 file for a brief presentation for this result.  
+project.mp4 file for a brief presentation for this project.  
